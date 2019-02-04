@@ -21,11 +21,11 @@ youtube_code: kNauH2T9qXU
 
 {% include youtube.html %}
 
-I often hear from buyers and agents about how difficult it is to win an offer on a home. Well, I’d like to share a few tips that can help you nab a home during even the most competitive of seller’s markets:
+I often hear from buyers and agents about how difficult it is to make a winning offer on a home in a seller's market. Well, I’d like to share a few tips that can help you nab a home during even the most competitive of seller’s markets:
 
 **1. Meet with a lender.** They’ll check your credit and get you pre-approved. This helps to establish the price point you should be shopping in, as well as uncover any issues with your credit that need to be addressed.
 
-**2. Complete a homebuyer consultation.** By consulting with your Realtor, you’ll learn everything about the home buying process. You’ll also be able to discuss your goals with your agent, and they’ll gain a thorough understanding of your situation and what you’re looking for. If you’re on the fence about having an agent, they’ll also tell you about why having one is the best way to ensure your goals are met.
+**2. Complete a homebuyer consultation.** By consulting with your Realtor, you’ll learn everything you need to know about the home buying process. You’ll also be able to discuss your goals with your agent, and they’ll gain a thorough understanding of your situation and what you’re looking for. If you’re on the fence about having an agent, they’ll also tell you why having one is the best way to ensure your goals are met.
 
 {% include pullquote.html %}
 
