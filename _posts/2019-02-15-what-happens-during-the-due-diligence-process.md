@@ -22,7 +22,7 @@ youtube_code: ushqhHu8KxQ
 
 In North Carolina, we have revisions in our contracts that allow you to fully understand the home you’re buying in a due diligence period. During this period, you’re effectively buying a block of time, usually a few weeks, and several key things must occur:
 
-**1. Schedule and attend a home inspection.** After you do this, you and your agnt twill review the report and make a repair request for the seller. They will respond back to the request and the negotiation goes from there.
+**1. Schedule and attend a home inspection.** After you do this, you and your agent will review the report and make a repair request for the seller. They will respond back to the request and the negotiation goes from there.
 
 **2. Reach out to your lender.** Fulfill any underwriting requirements that have been put on you and make sure your lender orders and receives back your appraisal report during his period.&nbsp;
 
@@ -32,4 +32,4 @@ In North Carolina, we have revisions in our contracts that allow you to fully un
 
 **4. Decide if you want to move forward.** Once you get to the end, you have the choice whether to continue or not. If you decide you want to terminate, you'll need to decide before the due diligence date to get your earnest money back.
 
-I hope this tip was helpful to you today. If you have any questions for me in the meantime, don't hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+I hope these tips were helpful to you today. If you have any questions for me in the meantime, don't hesitate to give me a call or send me an email. I look forward to hearing from you soon.
