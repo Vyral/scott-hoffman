@@ -1,7 +1,7 @@
 ---
 layout: post
 title: This Is What Happens When a Home Doesn’t Appraise
-date: 2019-03-14 18:46:06
+date: 2019-03-14 18:46:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/scott-hoffman-ssappraise-email.jpg
-youtube_code: NmAsQFp7O5Y
+youtube_code: ipPQRkL_u64
 ---
 
 {% include youtube.html %}
@@ -25,7 +25,7 @@ This is because ultimately, a home has to appraise prior to closing. The apprais
 
 {% include pullquote.html %}
 
-For example, let’s say a home that’s being sold for $250,000 appraises at $245,000. At this point, the buyer can ask you to reduce your price to the appraised value. They could also go the other way and say that they’ll pay the difference between the two in cash, or split the difference with you in cash.&nbsp;
+For example, let’s say a home that’s being sold for $250,000 appraises at $245,000. At this point, the buyer can ask you to reduce your price to the appraised value. They could also go the other way and say that they’ll pay the difference between the two in cash, or split the difference with you in cash. 
 
 **If none of those options work, the buyer can decide to terminate the deal.** It’s important to remember that even though someone may not be using a loan, a cash buyer will typically also order an appraisal to protect their investment.
 
