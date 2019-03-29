@@ -23,9 +23,9 @@ youtube_code: IZeVidzDiIg
 
 When purchasing new construction, having a buyer’s agent working on your behalf is critical.&nbsp;
 
-The on-site agent may be perfectly knowledgeable, but it’s important to realize that they don’t have your best interests in mind. **Having a Realtor to represent your wants, needs, and goals is, therefore, key.&nbsp;**
+The on-site agent may be perfectly knowledgeable, but it’s important to realize that they don’t have your best interests in mind. **Therefore, having a Realtor to represent your wants, needs, and goals is key.**
 
-One of the most common complaints buyers raise about new construction homes is that they’re often completed after the agreed-upon time frame. When you work with an agent, they can help to ensure that issues like this are addressed and resolved as effectively as possible. **A quality agent will also be able to help you choose the right builder to work with**, so that the likelihood of these issues coming up is reduced from the start.&nbsp;
+One of the most common complaints buyers raise about new construction homes is that they’re often completed after the agreed-upon time frame. When you work with an agent, they can help to ensure that issues like this are addressed and resolved as effectively as possible. **A quality agent will also be able to help you choose the right builder to work with**&nbsp;so that the likelihood of these issues coming up is reduced from the start.&nbsp;
 
 {% include pullquote.html %}
 
