@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Difference Between a Pre-Approval and a Pre-Qualification
-date: 2019-04-12 15:18:36
+date: 2019-04-12 15:18:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -9,12 +9,12 @@ excerpt: >-
   looking at their differences.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Scott+Hoffman/The+Difference+Between+a+Pre-Approval+and+a+Pre-Qualification.mp4
-pullquote: Sellers see pre-approval as a guarantee.
+pullquote: Sellers see a pre-approval as a guarantee.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/scott-hoffman-ss-vs-email.jpg
-youtube_code: znvyKgcVZAc
+youtube_code: px6F5-VmUQk
 ---
 
 {% include youtube.html %}
