@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Do You Need an Inspection When Buying New Construction?
-date: 2019-04-25 15:01:32
+date: 2019-04-25 15:01:00
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -16,14 +16,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/newconstruction-homes-email.jpg
-youtube_code: BZjpZJx_8EY
+youtube_code: ZtsLOZAcMTY
 ---
 
 {% include youtube.html %}
 
 If you’re buying a new construction home, you may be curious as to whether it’s necessary to order an inspection. After all, the home should be in perfect condition if it’s brand new, right? Not necessarily. **Inspections are still necessary when purchasing new construction**, and there are a few reasons why.
 
-The key difference between the inspection process for a resale home purchase compared to a new construction home purchase is timing. Builders are often making adjustments to the property right up until closing, so ordering an inspection too early in a new construction purchase lead to certain issues being overlooked.&nbsp;
+The key difference between the inspection process for a resale home purchase compared to a new construction home purchase is timing. Builders are often making adjustments to the property right up until closing, so ordering an inspection too early in a new construction purchase leads to certain issues being overlooked.&nbsp;
 
 {% include pullquote.html %}
 
