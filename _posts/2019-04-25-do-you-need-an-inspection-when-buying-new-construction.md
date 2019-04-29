@@ -8,7 +8,7 @@ excerpt: >-
   Home inspections are still necessary during a new construction purchase, and,
   in this message, we’ll explain why.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Scott+Hoffman/Do+You+Need+an+Inspection+When+Buying+New+Construction_.mp4
+  https://s3.amazonaws.com/vyralmarketing/Scott+Hoffman/Do+You+Need+an+Inspection+When+Buying+New+Construction_+(1).mp4
 pullquote: >-
   The key difference between the inspection process for a resale home purchase
   compared to a new construction home purchase is timing.
