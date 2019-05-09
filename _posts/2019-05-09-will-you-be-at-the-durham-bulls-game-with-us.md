@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Will You Be at the Durham Bulls Game With Us?
-date: 2019-05-09 15:43:13
+date: 2019-05-09 15:43:00
 tags:
 excerpt: >-
   On June 11, we’re holding our next Forever Client event at a Durham Bulls
