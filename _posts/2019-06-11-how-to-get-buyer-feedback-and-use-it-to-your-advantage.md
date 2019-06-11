@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Get Buyer Feedback and Use It to Your Advantage
-date: 2019-06-11 13:28:29
+date: 2019-06-11 13:28:00
 tags:
   - Home Seller Tips
 excerpt: >-
