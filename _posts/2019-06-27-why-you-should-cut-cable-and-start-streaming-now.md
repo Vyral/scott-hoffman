@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why You Should Cut Cable and Start Streaming Now
-date: 2019-06-27 15:35:22
+date: 2019-06-27 15:35:00
 tags:
   - Real Estate
 excerpt: >-
