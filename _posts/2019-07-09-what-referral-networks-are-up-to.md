@@ -21,13 +21,13 @@ youtube_code: E1r99RflG4A
 
 {% include youtube.html %}
 
-Today I’ll spell out the problems with giving out your personal information to referral networks like Zillow, Trulia, Realtor.com, and other real estate-related data services and why this is something you should never do. &nbsp;
+Today I’ll spell out the problems with giving out your personal information to referral networks like Zillow, Trulia, Realtor.com, and other real estate-related data services. &nbsp;
 
 The first reason you shouldn’t hand out your information to the likes of Zillow or Trulia is that **they’re in the business of data collection**. Imagine that you’re perusing Zillow, looking for a home that you’ll love at first sight.&nbsp;
 
 From the moment you’ve found that home and volunteered your information, Zillow is selling your information behind the scenes to as many as five agents. Before long, your phone is ringing off the hook simply because a listing’s pictures caught your eye.
 
-Secondly, **some sites charge agents enormous referral fees.** According to their pitch, if you click a button and provide your information, they’ll put you in contact with one of the best listing agents around. Actually, many of these sites won’t send you to not one, but three agents, and they’ll charge each of them an estimated 35% referral fee. Meanwhile, you’re none the wiser.&nbsp;
+Secondly, **some sites charge agents enormous referral fees.** According to their pitch, if you click a button and provide your information, they’ll put you in contact with one of the best listing agents around. Actually, many of these sites will send you to not one, but three agents, and they’ll charge each of them an estimated 35% referral fee. Meanwhile, you’re none the wiser.&nbsp;
 
 {% include pullquote.html %}
 
