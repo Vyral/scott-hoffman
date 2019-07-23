@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What to Do If Your Listing Receives Multiple Offers
-date: 2019-07-23 20:37:53
+date: 2019-07-23 20:37:00
 tags:
   - Home Seller Tips
 excerpt: >-
