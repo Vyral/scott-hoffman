@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Are you overwhelmed by the offers you’re getting on your home? These five tips
   can help.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Hoffman/What+to+Do+if+Your+Listing+Receives+Multiple+Offers.mp4
 pullquote: >-
   If buyers know what a hot commodity your home is, they’ll be more likely to
   put their best foot forward.
