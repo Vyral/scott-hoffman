@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Are Instant Offer Companies?
-date: 2019-08-06 14:06:39
+date: 2019-08-06 14:06:00
 tags:
   - Home Seller Tips
 excerpt: >-
