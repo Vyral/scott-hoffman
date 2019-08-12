@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Instant offer companies have become more popular lately, but is selling your
   home to one a good idea? Let’s discuss.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Hoffman/What+Are+Instant+Offer+Companies_.mp4
 pullquote: Selling to an instant offer company is rarely ever worth it.
 enclosure_type: video/mp4
 enclosure_time:
