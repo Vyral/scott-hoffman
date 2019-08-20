@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Buyers, Sellers, and Homeowners: Check Out These Great Local Vendors'
-date: 2019-08-20 14:56:31
+date: 2019-08-20 14:56:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
