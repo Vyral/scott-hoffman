@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/8-19---scott-hoffman---youtube.jpg
-youtube_code: icfAjFD9HVU
+youtube_code: ZP0D-XJOC7E
 ---
 
 {% include youtube.html %}
