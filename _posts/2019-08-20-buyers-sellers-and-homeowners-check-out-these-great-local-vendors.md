@@ -19,9 +19,9 @@ youtube_code: icfAjFD9HVU
 
 People ask us all the time for suggestions on local vendors, so today we’d like to share a few of our top picks.&nbsp;
 
-**First on our list is Pat Gurney—a woman whose cleaning services have been an incredible help to many of our clients in the past.** Whether you’re preparing to move or just want to have your home sparkling clean for your own enjoyment, Pat is the person you want to call. You can reach her at (919) 612-4651.
+**First on our list is Pat Kearney—a woman whose cleaning services have been an incredible help to many of our clients in the past.** Whether you’re preparing to move or just want to have your home sparkling clean for your own enjoyment, Pat is the person you want to call. You can reach her at (919) 612-4651.
 
-**Next is Nick Gnats, an insurance agent with Farm Bureau.** Nick has helped countless local families protect their homes and their assets by connecting them with affordable and effective insurance options. You can get in touch with Nick by calling (919) 576-7581.&nbsp;
+**Next is Nick Nance, an insurance agent with Farm Bureau.** Nick has helped countless local families protect their homes and their assets by connecting them with affordable and effective insurance options. You can get in touch with Nick by calling (919) 576-7581.&nbsp;
 
 {% include pullquote.html %}
 
