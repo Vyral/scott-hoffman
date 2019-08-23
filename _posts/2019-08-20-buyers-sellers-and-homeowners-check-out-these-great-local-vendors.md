@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/8-19---scott-hoffman---youtube.jpg
-youtube_code: ZP0D-XJOC7E
+youtube_code: Q0_15piuYJI
 ---
 
 {% include youtube.html %}
@@ -25,7 +25,7 @@ People ask us all the time for suggestions on local vendors, so today we’d lik
 
 {% include pullquote.html %}
 
-**Kyle Cary with DHS Renovations is another great vendor we like to recommend to homeowners, buyers, and sellers in our area.** We’ve been working with Kyle for more than a decade, and we’ve always known him to provide a high-quality experience at a reasonable cost when it comes to home renovations. If you’re looking to upgrade your home, you can reach Kyle at (919) 830-0829.&nbsp;
+**Kyle Carrick with DHS Renovations is another great vendor we like to recommend to homeowners, buyers, and sellers in our area.** We’ve been working with Kyle for more than a decade, and we’ve always known him to provide a high-quality experience at a reasonable cost when it comes to home renovations. If you’re looking to upgrade your home, you can reach Kyle at (919) 830-0829.&nbsp;
 
 **The last vendor on today’s list is Bruce Jones of Five Star Painting.** Whether you’re looking to transform your home into a clean slate before you sell it or you’re interested in giving your current residence a little pop of color, Bruce and his team do a fantastic job with re-touching and repainting homes both inside and out. You can reach Bruce by calling (919) 315-6511.
 
