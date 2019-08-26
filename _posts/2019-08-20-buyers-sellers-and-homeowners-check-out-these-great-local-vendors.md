@@ -6,7 +6,8 @@ tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: Looking for high-quality local vendors? Here are our top picks.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Hoffman/Buyers%2C+Sellers%2C+and+Homeowners-+Check+Out+These+Great+Local+Vendors.mp4
 pullquote: Our team always strives to be a valuable local resource for you.
 enclosure_type: video/mp4
 enclosure_time:
