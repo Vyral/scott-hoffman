@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Buyers: Always Get a Pre-Approval Letter Before Submitting Offers'
-date: 2019-09-03 17:23:06
+date: 2019-09-03 17:23:00
 tags:
   - Home Buyer Tips
 excerpt: >-
