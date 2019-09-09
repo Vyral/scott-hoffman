@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   There is one critical document you should include with every offer you submit,
   and we’ll be sharing what it is in this message.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Hoffman/Buyers-+Always+Get+a+Pre-Approval+Letter+Before+Submitting+Offers.mp4
 pullquote: >-
   Having a pre-approval letter or proof of funds letter could make or break your
   ability to strike a deal on your dream home.
