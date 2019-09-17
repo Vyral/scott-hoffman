@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Keep Your Home Free of Clutter With These 5 Tips
-date: 2019-09-17 14:54:50
+date: 2019-09-17 14:54:00
 tags:
   - Real Estate
 excerpt: >-
