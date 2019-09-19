@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/9-16---scott-hoffman---youtube.jpg
-youtube_code: 'https://youtu.be/h1rZG_iCYsk'
+youtube_code: 3lIMtaufuDQ
 ---
 
 {% include youtube.html %}
