@@ -32,6 +32,6 @@ Though many of my friends will get a kick out of me covering this topic (I tend 
 
 **4\. Be strict about what you allow into your home.** If family members are trying to give you stuff that they don’t want in their homes, chances are that you don’t need it in yours, either. Before you accept that stuff from friends and family, make sure you love it; take 24 hours to think about it and see if it’s something that you want to take up your home’s precious space.
 
-**5\. Declutter your small spaces daily.** Most of us have some drawer or space in our home where random items tend to gather—we call ours a ‘treasure drawer,’ but others might call it a ‘junk drawer,’ too. Take the time to clear out these areas. This year, I actually took 50 bags of clothes out of my closet\!
+**5\. Declutter your small spaces daily.** Most of us have some drawers or space in our home where random items tend to gather—we call ours a ‘treasure drawer,’ but others might call it a ‘junk drawer,’ too. Take the time to clear out these areas. This year, I actually took 50 bags of clothes out of my closet\!
 
 If you have any questions or suggestions of your own about minimalistic housekeeping, don’t hesitate to reach out to me. We’d love to hear your questions and ideas.
