@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Today I’ll cover five mindful habits that will help you keep a minimalistic
   home. Learn more here.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Hoffman/Keep+Your+Home+Free+of+Clutter+With+These+5+Tips.mp4
 pullquote: >-
   If family members are trying to give you stuff that they don’t want in their
   homes, chances are that you don’t need it in yours, either.
