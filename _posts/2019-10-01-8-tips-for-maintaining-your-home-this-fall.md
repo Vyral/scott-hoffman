@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Make sure your home is ready for winter by following these eight simple tips
   for fall maintenance.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Hoffman/8+Tips+for+Maintaining+Your+Home+This+Fall.mp4
 pullquote: Our preferred vendors who can help you with any home repairs you may need.
 enclosure_type: video/mp4
 enclosure_time:
