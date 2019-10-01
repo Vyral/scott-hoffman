@@ -18,6 +18,8 @@ youtube_code: 'https://youtu.be/T2c4FYF0TIc'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Make sure your home is ready for winter by following these eight simple tips for fall maintenance.</em></p>
+
 The fall season is here at last, which means there are a few fall-related items you’ll want to keep an eye on around the house. As a homeowner, you should make sure to:
 
 **1\. Care for trees and shrubs:** Get rid of dead branches and broken limbs so your tree will blossom again in the spring.
