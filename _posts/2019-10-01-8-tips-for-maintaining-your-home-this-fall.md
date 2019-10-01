@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 8 Tips for Maintaining Your Home This Fall
-date: 2019-10-01 14:07:13
+date: 2019-10-01 14:07:00
 tags:
   - Real Estate
 excerpt: >-
