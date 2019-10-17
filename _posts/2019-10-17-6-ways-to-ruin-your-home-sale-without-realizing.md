@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/rsKMPkNccBU'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Don’t ruin your home sale before it even begins. Here are six dumb reasons that homes typically fail to sell.</em></p>
+
 I hear all the time from clients about why homes don’t sell, so I wanted to share six such reasons with you today that stick out to me:
 
 **1\. Sellers want to price a home based on feelings instead of market data.** If you’re selling your home, it’s important to follow your agent’s advice. They’ll review with you what they think you can get for your home and where it should reasonably appraise. It’s so important to do this when pricing your home.
