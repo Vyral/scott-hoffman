@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 6 Ways to Ruin Your Home Sale Without Realizing
-date: 2019-10-17 18:29:03
+date: 2019-10-17 18:29:00
 tags:
   - Home Seller Tips
 excerpt: >-
