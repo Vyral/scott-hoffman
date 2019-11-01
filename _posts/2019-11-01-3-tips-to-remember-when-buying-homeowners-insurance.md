@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Tips to Remember When Buying Homeowners Insurance
-date: 2019-11-01 13:40:33
+date: 2019-11-01 13:40:00
 tags:
   - Home Buyer Tips
 excerpt: >-
