@@ -21,6 +21,8 @@ youtube_code: 'https://youtu.be/f0pOaTaOHos'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>There are three main tips you need to remember when purchasing homeowners insurance.</em></p>
+
 If you’re getting ready to purchase homeowners insurance, here are three important tips to remember, as advised by Nick Nance of Farm Bureau Insurance:
 
 **1\. Buy locally.** One of Nick’s biggest referral sources is clients who’ve had a bad experience by buying insurance online from an agent they’ve never met before. Buy insurance from someone you can meet face to face and talk with.&nbsp;
