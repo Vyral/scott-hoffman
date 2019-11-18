@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why You Should Consider Selling Your Home During the Holidays
-date: 2019-11-18 15:41:20
+date: 2019-11-18 15:41:00
 tags:
   - Home Seller Tips
 excerpt: >-
