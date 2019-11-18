@@ -22,6 +22,8 @@ youtube_code: 'https://youtu.be/sjTglQ4XNFU'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>There are five key reasons why selling your home during the holiday season is a great idea. Learn what they are here.</em></p>
+
 Even though most sellers prefer to list their home in the spring market, there are five reasons that make a holiday home sale an attractive idea:
 
 **1\. Better buyers.** People looking for homes during the holidays are on a mission. They’ve got a lot of things going on in life, as we all do around the holidays. So the buyers in the market are very serious about purchasing a home.
