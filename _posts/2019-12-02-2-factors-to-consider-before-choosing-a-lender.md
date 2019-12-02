@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2 Factors to Consider Before Choosing a Lender
-date: 2019-12-02 20:17:26
+date: 2019-12-02 20:17:00
 tags:
   - Home Buyer Tips
 excerpt: Don’t choose a lender without considering these two important factors.
