@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/Ox-snMpX9QQ'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Don’t choose a lender without considering these two important factors.</em></p>
+
 When choosing a lender for your home purchase, there are two important factors to consider, and today I’m joined by Michael Lassiter of Amerifirst Home Mortgage to outline each. &nbsp;
 
 The first is **their current turn times.** This means how long it will take once you go under contract to close on the loan. This is important because a closing date is established as soon as you go under contract, and a missed closing date—which happens frequently—can cost you a lot of money.&nbsp;
