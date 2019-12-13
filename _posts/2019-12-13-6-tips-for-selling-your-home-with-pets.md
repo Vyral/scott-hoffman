@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 6 Tips for Selling Your Home With Pets
-date: 2019-12-13 14:51:02
+date: 2019-12-13 14:51:00
 tags:
   - Home Seller Tips
 excerpt: I’m sharing six tips for how to sell and show your home when you own a pet.
