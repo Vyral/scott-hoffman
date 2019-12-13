@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/g5s8hzvZzYw'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>I’m sharing six tips for how to sell and show your home when you own a pet.</em></p>
+
 Selling and showing your home when you own pets can be a challenge. Today we’re going to talk about what you can do to minimize a pet’s presence for buyers. So, I brought in my dog Churchill to join us for this discussion\! I’m a huge pet fan, I love animals, they’re like family to me. However, it can be challenging to go through the moving process with pets. So today, I have a few things to share that might be helpful to you when thinking of showing your home when you have a pet.&nbsp;
 
 **1\. Deep clean to eliminate odors.** Steam clean the carpet, wash all fabrics, including the couches and pet beds. Cleanse all the areas the pet touches so you get a fresh scent. Some people are hypersensitive to these odors, so you need to be careful. Stay on top of the cleaning, too. Some animals shed, some produce furballs, there may be fragments of toys, so keep the house neat so that buyers see you are keeping up with the maintenance of your home.&nbsp;
