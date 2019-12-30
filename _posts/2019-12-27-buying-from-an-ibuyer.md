@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Buying From an iBuyer
+title: 4 Disadvantages of Buying a Home From an iBuyer
 date: 2019-12-27 15:12:47
 tags:
   - Home Buyer Tips
