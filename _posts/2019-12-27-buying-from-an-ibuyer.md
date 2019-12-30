@@ -22,7 +22,7 @@ youtube_code: 6abUkA3Acoo
 
 {% include youtube.html %}
 
-\*Before you buy from an iBuyer, consider these four disadvantages. \*
+<p style="text-align: center;"><em>Before you buy from an iBuyer, consider these four disadvantages.</em></p>
 
 We see companies like OpenDoor and Zillow buy homes on the market all the time, but there are disadvantages to buying a home that’s been previously bought wholesale and listed by an iBuyer.&nbsp;&nbsp;
 
