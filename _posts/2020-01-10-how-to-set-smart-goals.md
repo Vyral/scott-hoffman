@@ -1,11 +1,12 @@
 ---
 layout: post
 title: How to Set SMART Goals
-date: 2020-01-10 20:01:18
+date: 2020-01-10 20:01:00
 tags:
   - Real Estate
 excerpt: I’m sharing how to succeed in what you want by setting SMART goals.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Hoffman/How+to+Set+SMART+Goals.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
