@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/9my-lGDyKxQ'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>I’m sharing how to succeed in what you want by setting SMART goals.</em></p>
+
 Today we’re going to discuss New Year’s resolutions. It’s customary to pick things we’d like to accomplish by the end of the year, but oftentimes a few weeks into the year we fail miserably at it. We fail because we don’t set ourselves up for success in achieving those goals. To reach these goals, they need to be SMART goals.&nbsp;
 
 SMART goals have five key elements:
