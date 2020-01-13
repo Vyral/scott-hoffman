@@ -33,4 +33,4 @@ SMART goals have five key elements:
 
 **T- Timed.** For example, “I’m going to lose 30 pounds by the end of April.” An easier way to do this is to ground yourself in why you want to reach this objective: “I’m going to lose 30 pounds by the end of April so I can enjoy better health.”&nbsp;
 
-If you would like to discuss more about SMART goals or real estate, I would love to hear from you. Call or email me and we can go over any questions you may have.
+If you would like to talk more about SMART goals or other real estate topics, I would love to hear from you. Call or email me and we can go over any questions you may have.
