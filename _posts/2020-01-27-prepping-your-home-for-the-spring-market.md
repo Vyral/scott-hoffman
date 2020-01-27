@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/6JcWbhE5HC8'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here are a few tips that will make your home stand above the competition when listing it this spring.</em></p>
+
 If you plan on listing your home this spring, there are several things you must do to help it stand above the competition and give you a better chance at selling quickly and for top dollar.&nbsp;
 
 First, on the inside of the home, **do a walk-through of each room and address its overall condition.** Are the doors opening and shutting properly? Are the windows in good condition? You’ll also want to change the air filters and steam-clean (or vacuum) the carpet.&nbsp;
