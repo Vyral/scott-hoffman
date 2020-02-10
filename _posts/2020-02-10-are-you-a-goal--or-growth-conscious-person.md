@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/PJ0XkZv2KYI'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>I’m sharing the differences between goal and growth conscious people. Which do you want to be?</em></p>
+
 Today I’m sharing the differences between goal conscious and growth conscious people. Which do you want to be?
 
 **Goal-conscious people:**
