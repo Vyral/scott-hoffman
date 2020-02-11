@@ -19,9 +19,9 @@ youtube_code: 'https://youtu.be/PJ0XkZv2KYI'
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>I’m sharing the differences between goal and growth conscious people. Which do you want to be?</em></p>
+<p style="text-align: center;"><em>I’m sharing the differences between goal- and growth-conscious people. Which do you want to be?</em></p>
 
-Today I’m sharing the differences between goal conscious and growth conscious people. Which do you want to be?
+Today I’m sharing the differences between goal-conscious and growth-conscious people. Which do you want to be?
 
 **Goal-conscious people:**
 
@@ -45,6 +45,6 @@ Today I’m sharing the differences between goal conscious and growth conscious 
 * Learn before making mistakes
 * Depend on hard work
 
-This is an interesting way to look at these two types of people. My goal is to always be a growth conscious person. Keep these differences in mind when going about your daily life.
+This is an interesting way to look at these two types of people. My goal is to always be a growth-conscious person. Keep these differences in mind when going about your daily life.
 
 If we can ever help you with a real estate question or need, feel free to reach out via phone or email. We look forward to hearing from you soon.
