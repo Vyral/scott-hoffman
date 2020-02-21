@@ -20,6 +20,8 @@ youtube_code: 'https://youtu.be/vV9bLpx3qmE'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Cybersecurity is more important now than ever before. Use these tips to protect your information and identity while you navigate an increasingly digital world.</em></p>
+
 The world is becoming increasingly reliant on the internet to function, which is great for making many aspects of life easier and more efficient. However, this has also led to an increasing amount of cybercrimes by people who want to scheme and hack to steal people’s private information. To protect your computer and your personal information, be sure to follow these five tips:
 
 **1\. Use strong and unique email passwords that aren’t obvious.** The days of using “password123” or “\[your last name\]123” are over. Cybercriminals are smart, and if they can get into your email, they can use your information to rob you. Use complex and hard-to-guess passwords to make their jobs harder.
