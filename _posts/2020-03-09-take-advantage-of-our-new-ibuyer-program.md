@@ -21,6 +21,8 @@ youtube_code: 'https://youtu.be/Y2MaSHSHCfM'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Keller Offers is our version of an iBuyer program that allows you to sell your home without the hassle of the market.</em></p>
+
 At Keller Williams, we recently rolled out something to help our consumers: **Keller Offers powered by Offerpad.**
 
 Under this program, we’ll come out to seller’s homes and show them what they could get for their property if they went through the Keller Offers program versus the traditional form of selling on the market.&nbsp;
