@@ -29,7 +29,7 @@ Under this program, we’ll come out to seller’s homes and show them what they
 
 {% include pullquote.html %}
 
-The advantage our program provides to you, the consumer, is that **you get to see how much you’d net from your home sale no matter which route you decided to go,** which, in turn, allows you to make more educated decisions. At your request, we can even go submit your home to Opendoor to get a quote from them, for comparison’s sake.
+The advantage our program provides to you, the consumer, is that **you get to see how much you’d net from your home sale no matter what route you decided to go,** which, in turn, allows you to make more educated decisions. At your request, we can even go submit your home to Opendoor to get a quote from them, for comparison’s sake.
 
 Often, when people see the offers placed side by side, they understand that listing their home in the traditional way, though it might be inconvenient and slower, is often the more reliable way to go. That’s why they choose the traditional route about 90% of the time—they’re not going to lose 15% of their home’s value to pay for convenience.
 
