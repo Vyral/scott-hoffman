@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/L4Zvo9qUvMc'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s what sellers can do to ensure their home leaves a wonderful first impression on buyers.</em></p>
+
 As a seller, you naturally want to sell your home quickly and for as much money as possible. Following these 10 tips will help you go a long way toward that goal:&nbsp;
 
 **1\. Improve your landscaping.** Look at your home through the eyes of a buyer who’s just driven up to it for the first time; is it welcoming? Is the yard well-kempt, bushes trimmed, and flower beds mulched?
