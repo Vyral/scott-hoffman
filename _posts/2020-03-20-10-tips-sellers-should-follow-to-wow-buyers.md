@@ -37,7 +37,7 @@ As a seller, you naturally want to sell your home quickly and for as much money 
 
 **7\. Organize closets and drawers.** Make sure that at least 25% of your closet is free, open space. This gives the impression that the space inside them is ample, and that the home’s storage areas will be impossible to fill.&nbsp;
 
-**8\. Make surfaces shine.** Have your home professionally detailed (if you need the name of a trustworthy company, please reach out to me). Get into the moldings, the blinds, the ceiling vents—the areas you probably don’t routinely clean.&nbsp;
+**8\. Make surfaces shine.** Have your home professionally detailed (if you need the name of a trustworthy company, please reach out to me). Get into the moldings, blinds, ceiling vents—the areas you probably don’t routinely clean.&nbsp;
 
 **9\. Tone down the colors.** If you have a lime green dining room or bathroom, keep in mind that not everybody will enjoy that loud of a color. Opt for neutral colors when you repaint.&nbsp;
 
