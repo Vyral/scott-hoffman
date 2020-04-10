@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fun Ideas for Keeping Busy at Home
-date:
+date: 2020-04-10 15:57:01
 tags:
 excerpt: >-
   From self-reflective journaling, to binge-watching a gripping new TV series,
