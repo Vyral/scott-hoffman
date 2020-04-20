@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/scott-hoffman-great-shows-to-watch-during-the-coronavirus-email.jpg
-youtube_code: 'https://youtu.be/UYlhHcXj6RU'
+youtube_code: 8AroREM6W54
 ---
 
 {% include youtube.html %}
