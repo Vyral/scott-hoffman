@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Great Shows to Watch (or Re-watch) While Social Distancing
-date: 2020-04-17 21:03:18
+date: 2020-04-17 21:03:00
 tags:
   - Real Estate
 excerpt: >-
@@ -20,4 +20,4 @@ youtube_code: 'https://youtu.be/UYlhHcXj6RU'
 
 {% include youtube.html %}
 
-Instead of talking about real estate today, I want to share a list of my favorite t.v. shows that you can binge-watch and use to escape a little bit during this hectic time. My all-time favorite show is The Sopranos on HBO. I absolutely loved Dallas growing up, too. Do you remember where you were when J.R. got shot? To hear my full list of great t.v. shows that you can binge-watch during quarantine, watch this short video above.
+Instead of talking about real estate today, I want to share a list of my favorite TV shows that you can binge-watch and use to escape a little bit during this hectic time. My all-time favorite show is "The Sopranos" on HBO. I absolutely loved "Dallas" growing up, too. Do you remember where you were when J.R. got shot? To hear my full list of great TV shows that you can binge-watch during quarantine, watch this short video above.
