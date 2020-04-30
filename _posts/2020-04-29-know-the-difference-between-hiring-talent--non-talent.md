@@ -24,11 +24,11 @@ I recently had the pleasure of attending Career (Re)Visioning, a great course of
 So what’s the difference between talent and non-talent?&nbsp;
 
 * Non-talent brings you problems—**talent finds solutions.**
-* Non-talent doesn’t fulfils your needs and ends up giving your job back to you—**talent shares your goals and fulfills your needs as a natural byproduct of fulfilling their own.**
+* Non-talent doesn’t fulfil your needs and ends up giving your job back to you—**talent shares your goals and fulfills your needs as a natural byproduct of fulfilling their own.**
 * Non-talent doesn’t know what they want and isn’t searching—**talent knows what they want and actively seeks it out.**
 * Non-talent requires pushing—**talent pushes you.**
 * Non-talent doesn’t know where the bar is set—**talent raises the bar.**
 * Non-talent repels talent—**talent demands to be associated with talent.**
 * Non-talent can’t back up their actions and results—**talent speaks the language of action and results.**
 
-Use these points as insight into who you should be recruiting for your team. And if we can ever help you with your business in any other way, feel free to give us a call. We’d love to help you.
+Use these points as insight into who you should be recruiting for your team. If we can ever help you with your business in any other way, feel free to give us a call. We’d love to help you.
