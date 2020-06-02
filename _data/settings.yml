@@ -29,23 +29,23 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: https://www.raleighrealestatesearch.com/homevalue/Sellers
+  first_CTA_URL: https://thehoffmanrealtygroup.kw.com/listwithus
   second_CTA_text: Home Search
-  second_CTA_URL: https://www.raleighrealestatesearch.com/search
+  second_CTA_URL: https://thehoffmanrealtygroup.kw.com/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: https://www.raleighrealestatesearch.com/homevalue/Sellers
+    CTA_url: https://thehoffmanrealtygroup.kw.com/listwithus
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: https://www.raleighrealestatesearch.com/search
+    CTA_url2: https://thehoffmanrealtygroup.kw.com/
 
 lender:
   show_section: false
