@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Our Triangle Market is Faring Amid COVID-19
+title: How Our Triangle Market Is Faring Amid COVID-19
 date: 2020-06-02 19:14:51
 tags:
   - Market Update
