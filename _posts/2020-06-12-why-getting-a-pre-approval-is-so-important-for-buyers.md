@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/23Z1_63P8m0'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Pre-approval can be a game changer in a fast-paced market, and here’s why.</em></p>
+
 Here in the Triangle area, we’re operating in a seller’s market, which means that there’s a lot more competition, and the chances of you as a buyer finding yourself in a multiple-offer scenario are high. Here’s why we advise buyers to get pre-approved as soon as possible in a market like this:&nbsp;
 
 **1\. Peace of mind.** Doing your homework upfront allows you to get a recommended price to focus on as you shop for your next place to call home. It also allows the lender to pull your credit and see if there are any issues you need to work on immediately.&nbsp;
