@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: What Is a Market Analysis?'
-date:
+date: 2020-06-30 19:13:02
 tags:
   - Home Seller Tips
 excerpt: A market analysis can help determine the value of your home.
