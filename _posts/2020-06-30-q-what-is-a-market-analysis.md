@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/KSBDmKR3lRg'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>A market analysis can help determine the value of your home.</em></p>
+
 What is a market analysis? This is when a real estate agent helps you determine the market value of your home. They’ll come to your house, take a look at its features, then work on the numbers. While it’s not an appraisal, it does give you **a reference point for ascertaining the price at which you should list your property.&nbsp;**
 
 A market analysis takes into account the active, closed, pending, and under contract properties based on sales from the past 12 months. The agent then adjusts the value based on your home’s features. For example, we’ll pull a range of houses sold that share your home’s square footage, lot size, year built, and key features.&nbsp;
