@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 10 Tips Sellers Should Follow to Wow Buyers
-date: 2020-03-20 20:05:45
+date: 2020-07-13 10:05:45
 tags:
   - Home Seller Tips
 excerpt: >-
