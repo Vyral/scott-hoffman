@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/o5YLmSbRH7o'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s how the first half of 2020 compared to the first half of 2019.</em></p>
+
 It’s been one of the wildest years of all of our lives, but today I want to give you a quick update on what the Wake County real estate market is currently doing. The numbers might surprise you.
 
 We had 13,739 new listings in 2019, and that number dropped to 12,700 units so far in 2020. **This isn’t surprising,** given people’s fear of putting their homes on the market during a global pandemic.
