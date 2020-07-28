@@ -21,11 +21,11 @@ youtube_code: 'https://youtu.be/o5YLmSbRH7o'
 
 It’s been one of the wildest years of all of our lives, but today I want to give you a quick update on what the Wake County real estate market is currently doing. The numbers might surprise you.
 
-We had 13,739 new listings in 2019, and that number dropped to 12,700 units so far in 2020. **This isn’t surprising,** given people’s fear of putting their homes on the market during a global pandemic.
+We had 13,739 new listings in the first seven months of in 2019, and that number dropped to 12,700 units so far in 2020. **This isn’t surprising,** given people’s fear of putting their homes on the market during a global pandemic.
 
 {% include pullquote.html %}
 
-As for closed sales, we had 10,319 at this time last year, and we have 10,193 units so far in 2020. This is down just 1.2%. The average sale price has actually risen 4.7% to $371,803.
+As for closed sales, we had 10,319 at this time last year, and we have 10,193 units so far in 2020. This is down just 1.2%. The average sale price has actually risen by 4.7% to $371,803.
 
 **The percentage of list price has remained flat from 2019 at 98.5%, indicating that we’re still in a strong seller’s market.** The average days on market remained flat at 28 days as well.
 
