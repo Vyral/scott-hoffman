@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our Johnston County Market Update
-date: 2020-08-10 19:50:42
+date: 2020-08-10 19:50:00
 tags:
   - Market Update
 excerpt: Here are all the latest stats from our Johnston County real estate market.
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/scott-hoffman-johnston-county-market-update-yt.jpg
-youtube_code: 'https://youtu.be/aTvd6-ZOg_I'
+youtube_code: toMGSnDI_uU
 ---
 
 {% include youtube.html %}
