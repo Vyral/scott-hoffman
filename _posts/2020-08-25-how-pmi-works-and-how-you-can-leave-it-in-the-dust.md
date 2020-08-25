@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/52uW75STfrY'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s everything you need to know about PMI and how you can get rid of it.</em></p>
+
 Like other kinds of mortgage insurance, **private mortgage insurance (commonly referred to as PMI) is designed to protect the lender—not you—if you stop making payments on your loan for whatever reason.** Though arranged by the lender, PMI is provided by private insurance companies and is usually required when you have a conventional loan and make a down payment less than 20% of the home’s purchase price.&nbsp;
 
 As a new homeowner, your goal is to reach a 20% threshold so you can get rid of that PMI, which is essentially a junk fee as far as you’re concerned. &nbsp;Every lender has their own process for determining whether you’ve reached that mark.&nbsp;
