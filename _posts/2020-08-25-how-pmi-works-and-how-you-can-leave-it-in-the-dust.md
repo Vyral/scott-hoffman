@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/scott-hoffman-private-mortage-insurance-yt.jpg
-youtube_code: 'https://youtu.be/52uW75STfrY'
+youtube_code: 'https://youtu.be/PB6pNCucw8I'
 ---
 
 {% include youtube.html %}
