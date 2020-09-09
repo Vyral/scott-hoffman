@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/-1rtWxHuuis'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>There are eight mistakes you must avoid as a home seller.</em></p>
+
 Here are the eight things you must avoid doing if you want to sell your home quickly and for top dollar:
 
 **1\. Neglect curb appeal.** The first impression is a lasting impression, so when visiting buyers pull up to the curb and walk toward your house, it has to show its very best.&nbsp;
