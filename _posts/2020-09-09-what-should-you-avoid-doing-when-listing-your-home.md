@@ -31,12 +31,12 @@ Here are the eight things you must avoid doing if you want to sell your home qui
 
 {% include pullquote.html %}
 
-**5\. Hide problems.** Your home may have some problems you’re not willing to fix, so in that case, at least acknowledge these problems on your disclosure form so the buyer is aware of them.&nbsp;
+**5\. Hide problems.** If your home has problems you’re not willing to fix, at least acknowledge them on your disclosure form so the buyer is aware of them.&nbsp;
 
 **6\. Over-personalize the space in your home.** Buyers like to see neutral space, and a real estate professional can walk you through a staging appointment (or hire a stager) to position your home in the best light possible.&nbsp;
 
-**7\. Be at the showings.** It’s best to let your agent walk buyers through your home and give them the space to visualize themselves living there.&nbsp;
+**7\. Attend the showings.** It’s best to let your agent walk buyers through your home and give them the space they need to visualize themselves living there.&nbsp;
 
-**8\. Show a cluttered house.** When listing your home, you need to think “hotel/minimalist” in terms of style. Counters should be cleaned off, there shouldn’t be anything lying around on the floor, and closets should only be about ⅓ full so everything looks spacious.&nbsp;
+**8\. Show a cluttered house.** When listing your home, you need to think “hotel/minimalist” in terms of style. Counters should be cleaned off, there shouldn’t be anything laying around on the floor, and closets should only be about ⅓ full so everything looks spacious. Your presence could hinder buyers from picturing themselves in the home.&nbsp;
 
 If you’d like to know what else you can do to sell quickly and for top dollar in our market or have any other real estate questions, don’t hesitate to reach out to me. I’m here to help.
