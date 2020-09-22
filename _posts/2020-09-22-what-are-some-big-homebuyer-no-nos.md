@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/CE0vsguxWbQ'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here are the ten most common buyer mistakes we see today.</em></p>
+
 So you’re ready to buy the house of your dreams; what home-buying mistakes should you watch out for?&nbsp;
 
 First off, **if you’re getting a loan, you shouldn’t change jobs,** as it can greatly impact the lender’s decision on whether to give you a loan at all. Also, if you’re planning to buy appliances and furniture for your new home, don’t actually make those purchases in the midst of the home-buying process.&nbsp;
