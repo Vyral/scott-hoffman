@@ -18,6 +18,8 @@ youtube_code: 'https://youtu.be/1YlIzxxf170'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s why the Raleigh market isn’t seasonal like so many others.</em></p>
+
 I get questions about the real estate market all the time. The one I’ve been hearing most lately is, “It’s getting late in the year, should I just wait until next February to list my home for sale?”
 
 The answer is a resounding NO because Raleigh is not a seasonal market. There are three reasons why:
