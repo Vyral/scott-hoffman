@@ -24,11 +24,11 @@ I get questions about the real estate market all the time. The one I’ve been h
 
 The answer is a resounding NO because Raleigh is not a seasonal market. There are three reasons why:
 
-{% include pullquote.html %}
-
 **1\. Strong long-term projections.** This means there is going to be a constant influx of people because businesses are growing, more jobs are coming here, and it makes for a great climate for the real estate industry.
 
 **2\. Companies are relocating people.** They're not just doing it on January 1, either. They're moving people here year-round to fill their demand for jobs. This means the market will be steady and you won’t see the typical peaks and valleys of a seasonal market.
+
+{% include pullquote.html %}
 
 **3\. School systems.** North Carolina has very diverse options when it comes to schools. There are public schools, private schools, charter schools, and learn-at-home options. This makes people less concerned about moving because there are so many options out there for kids in North Carolina.
 
