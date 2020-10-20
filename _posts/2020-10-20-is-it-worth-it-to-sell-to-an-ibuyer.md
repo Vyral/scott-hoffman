@@ -17,6 +17,8 @@ youtube_code: 'https://youtu.be/8DxzRbhLnYQ'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s the truth behind what you actually get when selling to an iBuyer.</em></p>
+
 You may have seen the commercials for various “iBuyers” out there who are advertising a quick home sale with convenience and a cash offer. **It might seem too good to be true, and that’s because it is.** iBuyers offer speed and convenience, but you’ll pay for it. The price they’re willing to offer you is going to be a great deal less than your home’s market value, or the value of your home if it were to be sold traditionally on the MLS.&nbsp;
 
 Additionally, they’re going to charge you a service fee of anywhere from 6% to 12% of your home’s value. When you consider that the average agent’s commission costs about 6%, and you’re going to have to pay that anyway, on top of the low offer you’re already selling your home for, that’s a lot of money out of your pocket.
