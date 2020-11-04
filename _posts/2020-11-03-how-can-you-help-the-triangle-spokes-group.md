@@ -21,9 +21,7 @@ youtube_code: 'https://youtu.be/hH7-clRjNnQ'
 
 <p style="text-align: center;"><em>Let’s help the Triangle Spokes Group give back to families in need.</em></p>
 
-The season of giving is upon us, and with that in mind, I want to introduce you to a local charity that’s well worth your time and attention: the Triangle Spokes Group.&nbsp;
-
-This charity is a nonprofit founded and run by Ashley Wilson and Jenn Nowalk, two very good friends of mine. **It distributes new bicycles and helmets to less fortunate families during the holiday season.** 100% of their proceeds go directly to the bikes and the children, and they partner with the Salvation Army of Wake County to distribute the bikes in time for the holiday season.&nbsp;
+The season of giving is upon us, and with that in mind, I want to introduce you to a local charity that’s well worth your time and attention: the Triangle Spokes Group. This charity is a nonprofit founded and run by Ashley Wilson and Jenn Nowalk, two very good friends of mine. **It distributes new bicycles and helmets to less fortunate families during the holiday season.** 100% of their proceeds go directly to the bikes and children, and they partner with the Salvation Army of Wake County to distribute the bikes in time for the holiday season.&nbsp;
 
 {% include pullquote.html %}
 
