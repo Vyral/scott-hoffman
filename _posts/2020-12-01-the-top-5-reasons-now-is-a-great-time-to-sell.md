@@ -19,6 +19,8 @@ youtube_code: 'https://youtu.be/n1xWMWqlUTY'
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>There are five main reasons why the holidays are a great time to sell.</em></p>
+
 With the holiday season underway, here are the top five reasons now is a great time to consider putting your home on the market:
 
 **1\. Lack of competition.** We’ve been in an extreme seller’s market with low inventory in the Triangle area for about two years, and as the holiday season revs up, inventory is even lower. That means you can make your home stand out to more buyers, which gives you a strong chance of selling quickly and for more money. Speaking of…
