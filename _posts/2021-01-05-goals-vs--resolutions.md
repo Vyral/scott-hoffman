@@ -25,6 +25,6 @@ How do you set a proper goal? **A goal needs to be specific, measurable, attaina
 
 {% include pullquote.html %}
 
-What if you now added a level of accountability? Suppose you say that if you don’t lose 20 pounds by April 15, you have to give away $200 to your least favorite charity. You can insert any consequence you want for not achieving your goal, but the point is that now there’s power behind it. It was already important to you to lose weight, but now there’s a consequence for not doing so. You can use this same principal for any goal you set, whether it's for your business life or personal life.&nbsp;
+What if you now added a level of accountability? Suppose you say that if you don’t lose 20 pounds by April 15, you have to give away $200 to your least favorite charity. You can insert any consequence you want for not achieving your goal, but the point is that now there’s power behind it. It was already important to you to lose weight, but now there’s a consequence for not doing so. You can use this same principle for any goal you set, whether it's for your business life or personal life.&nbsp;
 
 I hope you have your best year ever in 2021. If you’d like to talk more about how to set proper goals or there’s anything else I can help you with, don’t hesitate to reach out to me. I look forward to speaking with you.
