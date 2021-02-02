@@ -19,6 +19,8 @@ youtube_code: ckXAfN-EvDg
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here are Dave Ramsey’s seven steps to help you get financial freedom.</em></p>
+
 One of my favorite talk radio shows is the Dave Ramsey Show. For those of you who don't know who Dave Ramsey is, **he teaches people how to get out of debt and build wealth for their future.** One of his favorite sayings is, “If you live like no one else, later you can live like no one else.” The fundamental system that he’s created is called the Dave Ramsey Baby Steps, which are designed to set you up for a future like no other.&nbsp;
 
 Let’s take a look at these seven steps:&nbsp;
