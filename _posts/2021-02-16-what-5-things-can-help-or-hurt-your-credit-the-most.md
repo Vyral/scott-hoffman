@@ -16,6 +16,8 @@ youtube_code: t44syMF8dqc
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here’s what makes up your credit score and how they can hurt or help you.</em></p>
+
 There are five key components that determine your overall credit score or rating. Here’s a rundown on each of them and how they can hurt or help your score:
 
 **1\. Payment history.** This composes 35% of your score and reflects whether you have made payments on time or not. Missing payments or late payments will have an adverse impact on this part of your score.
