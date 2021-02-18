@@ -5,7 +5,7 @@ date: 2021-02-16 17:56:35
 tags:
   - Real Estate
 excerpt: Here’s what makes up your credit score and how it can either hurt or help you.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Scott+Hoffman/What+5+Things+Can+Help+or+Hurt+Your+Credit+the+Most_.mp4
 pullquote: Missing or late payments will harm your score.
 enclosure_type: video/mp4
 enclosure_time:
