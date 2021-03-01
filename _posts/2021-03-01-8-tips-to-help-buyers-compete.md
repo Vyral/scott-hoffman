@@ -18,6 +18,8 @@ youtube_code: v4-M5pUc_Do
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here are a few tips to help buyers compete in our market.</em></p>
+
 You’ve probably heard that the Triangle real estate market is currently experiencing record-low inventory. That means it will be extremely challenging for buyers to bid on a new home. Here are some tips to best position you to win when competing in this tricky market:
 
 **1\. Get pre-approved.** This must be your starting point if you want to be competitive. A pre-approval letter tells the seller that you’ve done your homework and that you’re ready and able to proceed with the transaction.
