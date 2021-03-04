@@ -5,7 +5,7 @@ date: 2021-03-01 14:39:35
 tags:
   - Home Buyer Tips
 excerpt: Here are a few tips to help buyers compete in our market.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Scott+Hoffman/8+Tips+to+Help+Buyers+Compete.mp4
 pullquote: >-
   If your offer doesn’t work out, treat it like a learning opportunity and make
   your next offer stronger.
