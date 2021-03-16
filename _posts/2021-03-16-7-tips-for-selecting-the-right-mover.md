@@ -15,6 +15,8 @@ youtube_code: HBvl98O2Cqc
 ---
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Here are seven tips to help you hire the right mover for your home.</em></p>
+
 Selecting a mover can be challenging in today’s fast-paced market, so today we have just a few tips to help you pick the right one:
 
 **1\. Obtain and compare written estimates from multiple movers.** This estimate should be based on a personal inspection of your household goods compared to an online or phone estimate. I can’t stress enough how important this is. A lot of movers try to avoid this step; don’t let them\!
