@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/scott-hoffman-selecting-the-right-mover-yt2.jpg
-youtube_code: HBvl98O2Cqc
+youtube_code: pJOIbhimfEQ
 ---
 {% include youtube.html %}
 
