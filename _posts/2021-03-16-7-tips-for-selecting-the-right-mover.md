@@ -29,7 +29,7 @@ Selecting a mover can be challenging in today’s fast-paced market, so today we
 
 **4\. Prioritize your objectives.** Whether it’s price, care of possession, or time of delivery, make sure the mover understands. The mover quoting the lowest price may not meet these other objectives.
 
-**5\. Make sure to get a brochure.** Interstate movers are required to provide the booklet “Your rights and responsibilities when you move.”
+**5\. Make sure to get a brochure.** Interstate movers are required to provide a booklet from the federal government titled “Your Rights and Responsibilities When You Move.”
 
 **6\. Conduct a walk-through.** When you get to your new home, do this walk-through with the movers to ensure all boxes have been delivered and if there is any damage. You will then be presented with your final invoice and are expected to pay the bill. It may be higher than your estimate.
 
