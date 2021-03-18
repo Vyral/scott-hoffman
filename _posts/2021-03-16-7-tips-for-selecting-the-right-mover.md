@@ -5,7 +5,7 @@ date: 2021-03-16 15:33:13
 tags:
   - Real Estate
 excerpt: Here are seven tips to help you hire the right mover for your home.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Scott+Hoffman/7+Tips+for+Selecting+the+Right+Mover.mp4
 pullquote: The lowest-priced mover may not meet your primary objectives.
 enclosure_type: video/mp4
 enclosure_time:
