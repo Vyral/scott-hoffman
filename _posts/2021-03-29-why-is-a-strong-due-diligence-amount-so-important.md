@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Why Is a Strong Due Diligence Amount So Important?
-date: 2021-03-29 13:23:42
+date: 2021-03-29 13:23:00
 tags:
   - Home Buyer Tips
 excerpt: A strong due diligence amount means a stronger offer.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Hoffman/Why+Is+a+Strong+Due+Diligence+Amount+So+Important_.mp4
 pullquote: >-
   While the due diligence amount isn’t the only variable to consider in your
   offer, it is an important one in terms of helping it get accepted.
