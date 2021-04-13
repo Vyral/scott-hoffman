@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Which Type of Offer Should You Submit?
-date: 2021-04-12 13:39:26
+date: 2021-04-12 13:39:00
 tags:
   - Home Buyer Tips
 excerpt: What’s the difference between a cash offer and a financed offer?
@@ -29,7 +29,7 @@ Paying with cash is ideal for sellers since you as a buyer won’t have to go th
 
 When obtaining a mortgage, it’s critical that you speak with a reputable mortgage lender in advance so that you can get your financing in order. Your lender will either issue you a pre-qualification letter or a pre-approval letter. **Pre-qualification letters are considered preliminary** because your lender will have you complete a loan application and make a determination based largely on the information you provided. While it’s good to have a pre-qualification in place, it’s not considered extremely strong in multiple-offer situations.
 
-**A pre-approval, however, is one of the most solid letters you can receive from the bank** because in order for you to get one, they have to look not only at your loan application and credit reports, but they almost always are advanced underwritten. This gives the seller much more peace of mind when evaluating your offer on their home.
+**A pre-approval, however, is one of the most solid letters you can receive from the bank** because in order for you to get one, they have to look not only at your loan application and credit reports, but they're almost always advanced underwritten. This gives the seller much more peace of mind when evaluating your offer on their home.
 
 Ultimately, cash is king in today’s competitive market, but if you’re using financing, a pre-approval provides you with a good leverage point with sellers.
 
