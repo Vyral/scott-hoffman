@@ -5,7 +5,8 @@ date: 2021-04-12 13:39:00
 tags:
   - Home Buyer Tips
 excerpt: What’s the difference between a cash offer and a financed offer?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Hoffman/Which+Type+of+Offer+Should+You+Submit_.mp4
 pullquote: >-
   Cash is king in today’s market, but a pre-approval letter is also a good
   leverage point.
