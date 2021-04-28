@@ -5,7 +5,7 @@ date: 2021-04-12 13:39:00
 tags:
   - Home Seller Tips
   - Real Estate
-excerpt: What’s the difference between a cash offer and a financed offer?
+excerpt: We go over the main points to define what a seller’s market is.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Scott+Hoffman/Which+Type+of+Offer+Should+You+Submit_.mp4
 pullquote: >-
@@ -29,7 +29,7 @@ Today we're going to talk about what a seller's market is. A seller's market gen
 
 {% include pullquote.html %}
 
-**What does it mean for a buyer?** Buyers are going to face stiff competition. In many cases, you’ll have to offer more than asking price if you want to get a home. You'll also need to make concessions or wave contingencies and present clean contracts. Understand that there are fewer homes to choose from and it could take a little longer to buy a home. It's not uncommon to be out-bid or see your offers rejected.
+**What does it mean for a buyer?** Buyers are going to face stiff competition. In many cases, you’ll have to offer more than asking price if you want to get a home. You'll also need to make concessions or waive contingencies and present clean contracts. Understand that there are fewer homes to choose from, and it could take a little longer to buy a home. It's not uncommon to be outbid or see your offers rejected.
 
 We can help you navigate this crazy market. If you have any real estate questions or topics you would like to have us cover in the future, feel free to reach out to us. We’d love to hear from you.
 
