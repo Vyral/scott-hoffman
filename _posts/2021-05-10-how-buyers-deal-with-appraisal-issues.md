@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Buyers Deal With Appraisal Issues
-date: 2021-04-12 13:39:00
+date: 2021-05-10 00:00:00
 tags:
   - Home Buyer Tips
 excerpt: Here’s how buyers can deal with appraisal issues in our market.
