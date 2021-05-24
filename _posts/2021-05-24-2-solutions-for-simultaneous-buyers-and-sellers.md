@@ -5,7 +5,7 @@ date: 2021-05-24 00:00:00
 tags:
   - Home Buyer Tips
   - Home Seller Tips
-excerpt: 2 Solutions for Simultaneous Buyers and Sellers
+excerpt: Here’s some advice for buying your next home while selling your current one
 enclosure:
 pullquote: Both of these options have helped a ton of homeowners.
 enclosure_type: video/mp4
@@ -26,8 +26,6 @@ It’s a common problem in today’s market: Homeowners are eager to sell, but t
 
 **2\. Put your home on the market and negotiate a rent-back agreement.** Sellers can call their shots in this market, and you have a good chance to negotiate an agreement to let you stay in your home after it's sold while you search for a new property.
 
-Both of these options have helped a ton of homeowners find solutions in this market that’s fantastic for sellers but not so much for buyers.&nbsp;
+Both of these options have helped a ton of homeowners find solutions in this market.&nbsp;
 
 If you have any questions for us about your specific situation, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
-
-As always, if you have questions about this or any real estate topic, don’t hesitate to reach out to me. I’m happy to help.
