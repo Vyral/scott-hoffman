@@ -32,6 +32,8 @@ CTAs:
   first_CTA_URL: https://www.raleighrealestatesearch.com/cma/property-valuation/
   second_CTA_text: Home Search
   second_CTA_URL: https://www.raleighrealestatesearch.com/search/advanced_search/
+  third_CTA_text: Outer Banks
+  third_CTA_URL: https://www.searchobxhomes.com/search/advanced_search/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
