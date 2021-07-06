@@ -25,7 +25,7 @@ client:
   phone2:
   phone2_type:
   email: scott@thehoffmanrealtygroup.com
-  url: RaleighRealEstateSearch.com
+  url: https://RaleighRealEstateSearch.com
 
 CTAs:
   first_CTA_text: Home Valuation
