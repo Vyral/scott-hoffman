@@ -51,10 +51,10 @@ second_sidebar_CTA:
 
 third_sidebar_CTA:
   - CTA_image_path3: /img/cta-images/003.jpg
-    CTA_title2: "Looking for a Home?"
-    CTA_text2: "Search the Outer Banks"
-    CTA_link_text2: "Outer Banks Home Search"
-    CTA_url2: https://www.searchobxhomes.com/search/advanced_search/  
+    CTA_title3: "Looking for a Home?"
+    CTA_text3: "Search the Outer Banks"
+    CTA_link_text3: "Outer Banks Home Search"
+    CTA_url3: https://www.searchobxhomes.com/search/advanced_search/  
 
 lender:
   show_section: false
