@@ -15,14 +15,14 @@ client:
   title:
   license_number:
   about_markdown: |
-    Through his highly professional, informed and diligent approach, Scott Hoffman provides outstanding expertise and professional representation to his valued clients. As a client looking to purchase and/or sell in the Triangle real estate market, you may rely on Scott to always skillfully apply himself in order to accomplish and make your real estate dreams come true. His honest, accurate and forthright guidance lies at the heart of Scott’s personal service to his clients. When working with Scott, his clients always receive real estate advice based on careful analysis of the market and a deliberately mindful and cautious approach on their behalf. His wealth of real estate experience clearly allows him to skillfully advise his clients in making balanced decisions about their real estate investment. Scott is extremely attentive and responsive to each client's specific requirements and is very thorough in providing constant attention and communication regarding the important details of the transaction.
+    Through his highly professional, informed and diligent approach, Scott Hoffman provides outstanding expertise and professional representation to his valued clients. As a client looking to purchase and/or, you may rely on Scott to always skillfully apply himself in order to accomplish and make your real estate dreams come true. His honest, accurate and forthright guidance lies at the heart of Scott’s personal service to his clients. When working with Scott, his clients always receive real estate advice based on careful analysis of the market and a deliberately mindful and cautious approach on their behalf. His wealth of real estate experience clearly allows him to skillfully advise his clients in making balanced decisions about their real estate investment. Scott is extremely attentive and responsive to each client's specific requirements and is very thorough in providing constant attention and communication regarding the important details of the transaction.
   brand: Hoffman Realty Group
   brokerage: Keller Williams
   market: Raleigh
-  address: 7751 Brier Creek Parkway, Ste. 100 Raleigh, NC 27617
+  address: 7751 Brier Creek Parkway, Ste. 100 Raleigh, NC 27617<br>Keller Williams Outer Banks Realty<br>5595 N Croatan Hwy<br>Southern Shores, NC 27949
   phone: 919-281-3250
   phone_type:
-  phone2:
+  phone2: 
   phone2_type:
   email: scott@thehoffmanrealtygroup.com
   url: https://RaleighRealEstateSearch.com
@@ -30,9 +30,9 @@ client:
 CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: https://www.raleighrealestatesearch.com/cma/property-valuation/
-  second_CTA_text: Home Search
+  second_CTA_text: Triangle Area Home Search
   second_CTA_URL: https://www.raleighrealestatesearch.com/search/advanced_search/
-  third_CTA_text: Outer Banks
+  third_CTA_text: Outer Banks Home Search
   third_CTA_URL: https://www.searchobxhomes.com/search/advanced_search/
 
 sidebar_CTA:
@@ -48,6 +48,13 @@ second_sidebar_CTA:
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
     CTA_url2: https://www.raleighrealestatesearch.com/search/advanced_search/
+
+third_sidebar_CTA:
+  - CTA_image_path3: /img/cta-images/003.jpg
+    CTA_title2: "Looking for a Home?"
+    CTA_text2: "Search the Outer Banks"
+    CTA_link_text2: "Outer Banks Home Search"
+    CTA_url2: https://www.searchobxhomes.com/search/advanced_search/  
 
 lender:
   show_section: false
