@@ -17,7 +17,7 @@ client:
   about_markdown: |
     Through his highly professional, informed and diligent approach, Scott Hoffman provides outstanding expertise and professional representation to his valued clients. As a client looking to purchase and/or, you may rely on Scott to always skillfully apply himself in order to accomplish and make your real estate dreams come true. His honest, accurate and forthright guidance lies at the heart of Scott’s personal service to his clients. When working with Scott, his clients always receive real estate advice based on careful analysis of the market and a deliberately mindful and cautious approach on their behalf. His wealth of real estate experience clearly allows him to skillfully advise his clients in making balanced decisions about their real estate investment. Scott is extremely attentive and responsive to each client's specific requirements and is very thorough in providing constant attention and communication regarding the important details of the transaction.
   brand: Hoffman Realty Group
-  brokerage: Keller Williams
+  brokerage: Keller Williams Preferred Realty
   market: Raleigh
   address: 7751 Brier Creek Parkway, Ste. 100 Raleigh, NC 27617<br>Keller Williams Outer Banks Realty<br>5595 N Croatan Hwy<br>Southern Shores, NC 27949
   phone: 919-281-3250
@@ -51,8 +51,8 @@ second_sidebar_CTA:
 
 third_sidebar_CTA:
   - CTA_image_path3: /img/cta-images/003.jpg
-    CTA_title3: "Looking for a Home?"
-    CTA_text3: "Search the Outer Banks"
+    CTA_title3: "Looking for an Outer Banks Home?"
+    CTA_text3: "Search the entire MLS for your Outer Banks Home."
     CTA_link_text3: "Outer Banks Home Search"
     CTA_url3: https://www.searchobxhomes.com/search/advanced_search/  
 
