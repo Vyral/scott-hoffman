@@ -14,7 +14,8 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/scott-hoffman---yt.jpg
+youtube_alternate_image: >-
+  /uploads/scott-hoffman-whats-important-to-sellers-in-a-multiple-offer-situation-yt.jpg
 youtube_code: Qvm0LqPuM9Y
 ---
 {% include youtube.html %}
