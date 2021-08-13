@@ -17,7 +17,7 @@ youtube_code: odLPSqyrH0Q
 
 {% include excerpt.html %}
 
-The biggest concern for home sellers in this market is being able to find their next property. If you’re worrying about the same, you should know that you have multiple options.
+The biggest concern for home sellers in this market is being able to find their next property. If you’re also worried about that, you should know that you have multiple options.
 
 **One of them is negotiating with the buyer of your home to see if they’d be willing to rent the home back to you** for a short period of time. Another option is to negotiate an extended closing date on the contract. Both of these give you more time to shop.
 
