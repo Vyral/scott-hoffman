@@ -5,7 +5,8 @@ date: 2021-08-10 00:25:00
 tags:
   - Real Estate
 excerpt: Here are the options for homeowners who need to buy and sell in this market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Hoffman/Scott+Hoffman+Options+for+Sellers+Who+Haven%E2%80%99t+Found+a+New+Home.mp4
 pullquote: We’re here to help you through this challenging market.
 enclosure_type: video/mp4
 enclosure_time:
