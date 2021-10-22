@@ -9,7 +9,7 @@ tags:
 excerpt: Here are the meanings behind all the different listing statuses.
 enclosure:
 pullquote: >-
-    When searching for homes online the listings have several different
+    When searching for homes online, the listings have several different
     statuses. 
 enclosure_type: video/mp4
 enclosure_time:
@@ -21,7 +21,7 @@ youtube_code: X2oIPNI6C5A
 
 {% include excerpt.html %}
 
-Today we'll talk about what the statuses you see on listings sites mean. When you're searching for homes online or having homes sent to you by your agent, you've probably noticed several different statuses. As you've previewed homes, the most common status is the **“active”** status which means it is available for purchase and showings.
+Today we'll talk about what the statuses you see on listings sites mean. When you're searching for homes online or having homes sent to you by your agent, you've probably noticed several different statuses. As you've previewed homes, the most common status is the **“active”** status, which means it is available for purchase and showings.
 
 Another common status you'll see is **“coming soon.”** A coming soon status means the property is soon to be listed for sale to the market. In most situations, you can make a site-unseen offer, but typically, you cannot look at any property in a coming soon status in advance.
 
