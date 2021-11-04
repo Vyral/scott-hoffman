@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 Ways To Buy at Sell at the Same Time
+title: 3 Ways To Buy and Sell at the Same Time
 date: 2021-11-04 00:25:00
 tags:
     - Real Estate
