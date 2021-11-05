@@ -27,7 +27,7 @@ Before you start, review your finances and get pre-approved by a lender. This wi
 
 {% include pullquote.html %}
 
-**2\. Sell then buy.** You won't have two mortgages to worry about and you'll know exactly how much equity can go towards your down payment. However, you'll have to find somewhere to live temporarily or arrange a lease back from the buyer.
+**2\. Sell then buy.** You won't have two mortgages to worry about and you'll know exactly how much equity can go towards your down payment. However, you'll have to find somewhere to live temporarily, or arrange a leaseback from the buyer.
 
 **3\. Buy and sell simultaneously.** This route requires a lot of pre-planning and flexibility. We ask our clients to complete inspections and repairs upfront so that we can quickly arrange a sale.
 
