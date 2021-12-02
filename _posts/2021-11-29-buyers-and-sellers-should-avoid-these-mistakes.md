@@ -18,7 +18,7 @@ youtube_code: xzFibHWtKmg
 
 {% include excerpt.html %}
 
-Are you looking to buy or sell a home? Both are exciting processes, but there are a lot of pitfalls you can fall into if you aren’t careful. That’s why today we want to go over nine common mistakes buyers and sellers should avoid in this market:
+Are you looking to buy or sell a home? Both are exciting processes, but there are a lot of pitfalls you can stumble into if you aren’t careful. That’s why today we want to go over nine common mistakes buyers and sellers should avoid in this market:
 
 **1\. Overpricing your home.** Just because we’re in a seller’s market doesn’t mean you can price your home however you want.&nbsp;
 
