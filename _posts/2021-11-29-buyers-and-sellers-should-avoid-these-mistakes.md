@@ -6,7 +6,8 @@ tags:
   - Home Buyer Tips
   - Home Seller Tips
 excerpt: Here are nine mistakes buyers and sellers should avoid in this market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Hoffman/Buyers+and+Sellers+Should+Avoid+These+Mistakes.mp4
 pullquote: If you waive your inspection, you’re setting yourself up for a world of hurt.
 enclosure_type: video/mp4
 enclosure_time:
