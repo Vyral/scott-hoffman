@@ -4,7 +4,7 @@ title: Happy Holidays!
 date: 2021-11-29 18:48:51
 tags:
 excerpt: From our team to your family, we want to wish you a happy holiday season.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Scott+Hoffman/Happy+Holidays!+(2).mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
