@@ -17,7 +17,7 @@ youtube_code: cES8okmEfDc
 
 {% include excerpt.html %}
 
-Today we wanted to introduce you to our new team member: Sarah Balaban\! We’re excited to have her on the team, and we wanted her to share a bit about herself.
+Today we wanted to introduce you to our new team member: Sarah Balaban\! We’re excited to have her on the team, and we wanted to ask her a few questions.&nbsp;
 
 **Tell us a bit about yourself.**
 
