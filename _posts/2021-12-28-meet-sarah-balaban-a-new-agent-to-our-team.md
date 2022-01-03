@@ -5,7 +5,8 @@ date: 2021-12-28 00:00:00
 tags:
   - Real Estate
 excerpt: Let us introduce the newest member of our team, Sarah Balaban.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Hoffman/Meet+Sarah+Balaban%2C+a+New+Agent+to+Our+Team.mp4
 pullquote: My clients become like family, and I take care of my family.
 enclosure_type: video/mp4
 enclosure_time:
