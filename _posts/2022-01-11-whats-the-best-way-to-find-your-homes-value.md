@@ -4,7 +4,8 @@ title: What’s the Best Way To Find Your Home’s Value?
 date: 2022-01-11 00:00:00
 tags:
 excerpt: 'Here’s how CMAs can get you a more accurate value for your home. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Hoffman/What%E2%80%99s+the+Best+Way+To+Find+Your+Home%E2%80%99s+Value_.mp4
 pullquote: Make sure an experienced agent does your CMA.
 enclosure_type: video/mp4
 enclosure_time:
