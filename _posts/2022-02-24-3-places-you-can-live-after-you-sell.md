@@ -17,7 +17,7 @@ youtube_code: wko6VpqiLIg
 
 {% include excerpt.html %}
 
-Where do you go when your home sells? We’re all experiencing this unprecedented seller’s market. Homes are selling with multiple offers far above list price, and sellers are maximizing the value they’re getting out of their homes. A lot of people want to sell but worry about where they will go afterward.&nbsp;
+We’re experiencing an unprecedented seller’s market. So where do you go when your home sells? Homes are selling with multiple offers far above list price, and sellers are maximizing the value they’re getting out of their homes. A lot of people want to sell but worry about where they will go afterward.&nbsp;
 
 You should always check with your lender first and see if you can qualify to buy your new home before you sell your old one. However, if that’s not possible for you, there are still several ways to sell before you buy:
 
