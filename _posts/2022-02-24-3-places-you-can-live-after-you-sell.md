@@ -5,7 +5,8 @@ date: 2022-02-24 00:00:00
 tags:
   - Real Estate
 excerpt: Three solutions if you’re worried about where you will go after you sell.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Hoffman/3+Places+You+Can+Live+After+You+Sell.mp4
 pullquote: Don’t worry about where you’ll go after you sell; you have plenty of options.
 enclosure_type: video/mp4
 enclosure_time:
