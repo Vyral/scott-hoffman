@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/scott-hoffman-ss-youtube-30.jpg
-youtube_code: A8hI8Qo4lYQ
+youtube_code: 97Nls2edbh4
 ---
 {% include youtube.html %}
 
