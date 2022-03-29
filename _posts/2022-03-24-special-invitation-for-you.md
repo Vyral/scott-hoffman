@@ -4,7 +4,8 @@ title: Special Invitation for You
 date: 2022-03-24 16:53:03
 tags:
 excerpt: Here are all the details about our upcoming event at Pullen Park in Raleigh.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Scott+Hoffman/Special+Invitation+for+You.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
